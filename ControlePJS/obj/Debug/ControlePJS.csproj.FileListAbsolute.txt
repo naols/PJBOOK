@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.Form1.resources
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\ControlePJS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\bin\Debug\PJBook.exe.config
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\bin\Debug\PJBook.exe
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\bin\Debug\PJBook.pdb
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\PJBook.exe
+C:\Users\ADMIN\source\repos\ControlePJS\ControlePJS\obj\Debug\PJBook.pdb
